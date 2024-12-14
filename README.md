@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scvadali
 - 👀 I’m interested in electronics, running, biking, and singing
-- 🌱 I’m currently working as a Device Engineer at Intel
+- 🌱 I’m currently a PhD student at UC Berkeley
 - 📫 I'm always looking to try new experiences and learn different things!
 
 <!---
